@@ -3,6 +3,7 @@
 #include "AxisTheoremScene.h"
 #include "CollisionResolutionDemoScene.h"
 #include "RandomSpheresColliding.h"
+#include "AeroSimScene.h"
 
 #include <memory>
 
